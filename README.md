@@ -17,7 +17,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" />
 
-<p align="left"> <a href="https://twitter.com/shaghnanii" target="blank"><img src="https://img.shields.io/twitter/follow/shaghnanii?logo=twitter&style=for-the-badge" alt="shaghnanii" /></a> </p>
 
 - 🌱 I’m currently learning **Node**
 
