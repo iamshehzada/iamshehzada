@@ -4,15 +4,6 @@
 <h3 align="center">A passionate Full Stack developer from Pakistan.</h3>
 
 <!-- chart view star here  -->
-<p><img align="left" style="height: 192px" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaghnanii&show_icons=true&locale=en&layout=compact" alt="shaghnanii" /></p>
-
-
-
-<p>
-<center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaghnanii&" alt="shaghnanii" /></center>
-</p>
-<!-- Chart view ends here  -->
-
 <p><img align="left" style="height: 192px" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshehzada&show_icons=true&locale=en&layout=compact" alt="iamshehzada" /></p>
 
 <p>&nbsp;<img align="center" style="height: 192px" src="https://github-readme-stats.vercel.app/api?username=iamshehzada&show_icons=true&locale=en" alt="iamshehzada" /></p>
@@ -20,7 +11,7 @@
 <p>
 <center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamshehzada&" alt="shaghnanii" /></center>
 </p>
-
+<!-- Chart view ends here  -->
 
 - 🌱 I’m currently learning **Node**
 
