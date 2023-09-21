@@ -14,6 +14,7 @@
 <!-- Chart view ends here  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaghnanii&label=Profile%20views&color=0e75b6&style=flat" alt="shaghnanii" /> </p>
+(https://github-readme-stats.vercel.app/api?username=iamshehzada)](https://github.com/iamshehzada)
 
 <img align="right" alt="Coding" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" />
 
