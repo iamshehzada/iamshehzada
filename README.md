@@ -1,6 +1,6 @@
 <img style="width:100%; object-fit:center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--32Hnc0mL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2zs4hb7x23zv5cgiro7z.gif" alt="cover-image" />
 
-<h1 align="center">Hi 👋, I'm SHAKIL KHAN</h1>
+<h1 align="center">Hi 👋, I'm Shehzad Ahmad</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan.</h3>
 
 <!-- chart view star here  -->
@@ -21,13 +21,13 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://shakyeel.developer.com](https://shakyeel.developer.com)
+- 👨‍💻 All of my projects are available at [https://shehzad-ahmad.netlify.app/](https://shehzad-ahmad.netlify.app/)
 
-- 💬 Ask me about **PHP Laravel, Node, Java, Android, Vue/Nuxt.**
+- 💬 Ask me about **PHP Laravel, Vue/Nuxt.**
 
-- 📫 How to reach me **shakyeel.developer@gmail.com**
+- 📫 How to reach me **https://shehzad-ahmad.netlify.app/**
 
-- 📄 Know about my experiences [https://shakyeel.developer.com](https://shakyeel.developer.com)
+- 📄 Know about my experiences [https://shehzad-ahmad.netlify.app/](https://shehzad-ahmad.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
