@@ -13,10 +13,13 @@
 </p>
 <!-- Chart view ends here  -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaghnanii&label=Profile%20views&color=0e75b6&style=flat" alt="shaghnanii" /> </p>
-(https://github-readme-stats.vercel.app/api?username=iamshehzada)](https://github.com/iamshehzada)
+<p><img align="left" style="height: 192px" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshehzada&show_icons=true&locale=en&layout=compact" alt="iamshehzada" /></p>
 
-<img align="right" alt="Coding" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" />
+<p>&nbsp;<img align="center" style="height: 192px" src="https://github-readme-stats.vercel.app/api?username=iamshehzada&show_icons=true&locale=en" alt="iamshehzada" /></p>
+
+<p>
+<center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamshehzada&" alt="shaghnanii" /></center>
+</p>
 
 
 - 🌱 I’m currently learning **Node**
