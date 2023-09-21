@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaghnanii&label=Profile%20views&color=0e75b6&style=flat" alt="shaghnanii" /> </p>
 
-<img align="right" alt="Coding" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" />
+
 
 
 - 🌱 I’m currently learning **Spring Boot**
